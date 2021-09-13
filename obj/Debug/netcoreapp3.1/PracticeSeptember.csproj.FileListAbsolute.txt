@@ -1,0 +1,14 @@
+C:\Users\amcel\OneDrive\Desktop\repos\PracticeSeptember\bin\Debug\netcoreapp3.1\PracticeSeptember.exe
+C:\Users\amcel\OneDrive\Desktop\repos\PracticeSeptember\bin\Debug\netcoreapp3.1\PracticeSeptember.deps.json
+C:\Users\amcel\OneDrive\Desktop\repos\PracticeSeptember\bin\Debug\netcoreapp3.1\PracticeSeptember.runtimeconfig.json
+C:\Users\amcel\OneDrive\Desktop\repos\PracticeSeptember\bin\Debug\netcoreapp3.1\PracticeSeptember.runtimeconfig.dev.json
+C:\Users\amcel\OneDrive\Desktop\repos\PracticeSeptember\bin\Debug\netcoreapp3.1\PracticeSeptember.dll
+C:\Users\amcel\OneDrive\Desktop\repos\PracticeSeptember\bin\Debug\netcoreapp3.1\PracticeSeptember.pdb
+C:\Users\amcel\OneDrive\Desktop\repos\PracticeSeptember\obj\Debug\netcoreapp3.1\PracticeSeptember.csproj.AssemblyReference.cache
+C:\Users\amcel\OneDrive\Desktop\repos\PracticeSeptember\obj\Debug\netcoreapp3.1\PracticeSeptember.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amcel\OneDrive\Desktop\repos\PracticeSeptember\obj\Debug\netcoreapp3.1\PracticeSeptember.AssemblyInfoInputs.cache
+C:\Users\amcel\OneDrive\Desktop\repos\PracticeSeptember\obj\Debug\netcoreapp3.1\PracticeSeptember.AssemblyInfo.cs
+C:\Users\amcel\OneDrive\Desktop\repos\PracticeSeptember\obj\Debug\netcoreapp3.1\PracticeSeptember.csproj.CoreCompileInputs.cache
+C:\Users\amcel\OneDrive\Desktop\repos\PracticeSeptember\obj\Debug\netcoreapp3.1\PracticeSeptember.dll
+C:\Users\amcel\OneDrive\Desktop\repos\PracticeSeptember\obj\Debug\netcoreapp3.1\PracticeSeptember.pdb
+C:\Users\amcel\OneDrive\Desktop\repos\PracticeSeptember\obj\Debug\netcoreapp3.1\PracticeSeptember.genruntimeconfig.cache
