@@ -44,29 +44,6 @@ namespace PracticeSeptember
             userAgeList.Insert(2, 34);
             WriteLine(myCount);
 
-            int userAge;
-            Write("Please enter your age:");
-            userAge = Convert.ToInt32(ReadLine());
-
-            if (userAge < 0 || userAge > 100)
-            {
-                WriteLine("Invalid Age");
-                WriteLine("Age must be between 0 and 100");
-            }
-            else if  (userAge < 18) 
-            {
-                WriteLine("Sorry you are underage");
-
-            }
-            else if (userAge < 21) 
-            {
-                 WriteLine("You need parental consent");
-            }
-            else 
-            {
-                WriteLine("Congratulations!");
-                WriteLine("You may sign up for the event!");
-            }
 
             Write("Enter your grade: ");
             string userGrade = ReadLine();
@@ -101,6 +78,27 @@ namespace PracticeSeptember
                 WriteLine(myNumbers[i]);
             }
 
+            char[] hMessage = { 'H', 'e', 'l', 'l', 'o' };
+            foreach (char i in hMessage) 
+            {
+                Write(i);
+            }
+
+            int counter = 5;
+            while (counter > 0) 
+            {
+                WriteLine("Counter = {0}", counter);
+                counter = counter - 1;
+            }
+
+            int counter2 = 100;
+            do
+            {
+                Console.WriteLine("Counter = {0}", counter2);
+                counter2++;
+            } while (counter2 < 0);
         }
+        
+
     }
 }
